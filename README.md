@@ -14,7 +14,7 @@ Spring Boot を操作するために CLI を使用する必要はありません
 https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.installing.cli.manual-installation
 
 
-‐ Spring Boot CLI メリット
+- Spring Boot CLI メリット
   - さくっと簡単なエンドポイントが作れる！
 
 ## 起動方法
